@@ -1,0 +1,27 @@
+ a.top_stick 
+ {
+        background-image:url(top_h.png);
+        background-position:0 0;
+        background-repeat:no-repeat;
+        color:#FFFFFF;
+        display:inline-block;
+        font-size:0;
+        height:45px;
+        line-height:3px;
+        text-decoration:none;
+        width:46px;
+        border-radius: 5px;
+}
+a.top_stick:active,a.top_stick:visited,a.top_stick:hover{
+        background-image:url(top_h_hg.png);
+        background-position:0 0;
+        background-repeat:no-repeat;
+        color:#FFFFFF;
+        display:inline-block;
+        font-size:0;
+        height:45px;
+        line-height:3px;
+        text-decoration:none;
+        width:46px;
+        border-radius: 5px;
+}
